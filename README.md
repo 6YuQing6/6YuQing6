@@ -1,6 +1,6 @@
 ### Hi there :sparkles:
 
-🌱 I'm Sunny - a 4th year Computer Game Design Major @ UCSC. 
+🌱 I'm Sunny - Computer science game design grad from UCSC. 
 
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,cs,c,java)](https://skillicons.dev)  
